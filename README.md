@@ -108,8 +108,8 @@ Ao iniciar o programa, você verá o seguinte menu:
 - Visualize todos os restaurantes cadastrados com seus índices
 
 #### 3 Ativar Restaurante
-- Funcionalidade em desenvolvimento
-- Em breve permitirá ativar/desativar restaurantes
+- Selecione a opção '3'
+- Há agora a opção de ativar/desativar restaurantes
 
 #### 4 Sair
 - Selecione a opção `4`
@@ -158,7 +158,6 @@ REST/
 
 ## Melhorias Futuras
 
-- [ ] Implementar funcionalidade completa de ativar/desativar restaurantes
 - [ ] Adicionar persistência de dados (arquivo JSON/CSV)
 - [ ] Incluir mais informações sobre restaurantes (tipo de culinária, endereço, telefone)
 - [ ] Adicionar funcionalidade de edição de restaurantes
