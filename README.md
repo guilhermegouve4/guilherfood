@@ -108,11 +108,11 @@ Ao iniciar o programa, você verá o seguinte menu:
 - Visualize todos os restaurantes cadastrados com seus índices
 
 #### 3 Ativar Restaurante
-- Selecione a opção '3'
+- Selecione a opção `3`
 - Há agora a opção de ativar/desativar restaurantes
 
 #### 4 Sair
-- Selecione a opção '4'
+- Selecione a opção `4`
 - O sistema será encerrado
 
 ### Exemplo de Uso
